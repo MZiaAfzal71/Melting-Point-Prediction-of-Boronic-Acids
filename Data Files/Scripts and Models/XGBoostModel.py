@@ -3,11 +3,11 @@ from xgboost import XGBRegressor # The model to learn Fusion points of Alkanes
 from sklearn.metrics import mean_absolute_error, r2_score, mean_squared_error  # To find errors
 import pandas as pd
 
-input_file = 'Excel Files/CoulombMatrix_BoronicAcids_Desc.xlsx'
+# input_file = 'Excel Files/CoulombMatrix_BoronicAcids_Desc.xlsx'
 # input_file = 'Excel Files/Boronic_Mordred_3DC.xlsx'
 # input_file = 'Excel Files/Boronic_Morgan_fingerprint.xlsx'
 # input_file = 'Excel Files/Boronic_MACCS_fingerprint.xlsx'
-# input_file = 'Excel Files/Boronic_Bonds_Desc_Boron_En.xlsx'
+input_file = 'Excel Files/Boronic_Bonds_Desc_Boron_En.xlsx'
 
 # output_file = 'XGBoost Results/CoulombMatrix.xlsx'
 # output_file = 'XGBoost Results/Mordred.xlsx'
