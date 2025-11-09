@@ -8,8 +8,8 @@ This repository contains scripts and data for extracting, processing, and analyz
 
 ## Folder Structure
 
-```
-Updated soon! However one can visit Data Files/Scripts and Models directory and run the Colab files. They are fully documented!
-```
+
+### Updated soon! However one can visit Data Files/Scripts and Models directory and run the Colab files. They are fully documented!
+
 
 ## Workflow
